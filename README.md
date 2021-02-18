@@ -1,7 +1,7 @@
 # CAPSTONE-FSND [UDACITY]
 
 ## Live URL
-* https://1999x-coder.herokuapp.com
+* https://x1999-coder.herokuapp.com
 
 ## SETTING UP
 
