@@ -122,7 +122,7 @@ def EXECUTE(test_config=None):
                     }), 422;
 
     @app.errorhandler(AuthError)
-    def AuthError(_ErR_):
+    def authError(_ErR_):
         return jsonify({
             "success": False,
                 "error": 401,
